@@ -1,244 +1,244 @@
 <svg height="3854" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3854" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 09:13:55 +0000   942336 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 09:13:55 +0000     1083 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 09:13:55 +0000     3725 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 09:13:55 +0000     1302 bytes  SUMMARY.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 09:13:55 +0000     2895 bytes  UPGRADE_GUIDE.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 09:13:55 +0000      272 bytes  book.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 09:13:55 +0000     1110 bytes  contributing.json</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 09:13:55 +0000      192 bytes  esdoc.json</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 09:13:55 +0000     1709 bytes  examples/builder/FormBuilder.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 09:13:55 +0000      385 bytes  examples/builder/app.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 09:13:55 +0000      334 bytes  examples/builder/index.html</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 09:13:55 +0000      430 bytes  examples/builder/store.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 09:13:55 +0000      257 bytes  examples/global.css</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 09:13:55 +0000      390 bytes  examples/immutable/app.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 09:13:55 +0000      633 bytes  examples/immutable/components/submit-button.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 09:13:55 +0000     2535 bytes  examples/immutable/components/user-form.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 09:13:55 +0000      321 bytes  examples/immutable/index.html</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 09:13:55 +0000      593 bytes  examples/immutable/store.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 09:13:55 +0000      419 bytes  examples/index.html</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 09:13:55 +0000      455 bytes  examples/quick-start/app.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 09:13:55 +0000     2440 bytes  examples/quick-start/components/user-form.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 09:13:55 +0000      335 bytes  examples/quick-start/index.html</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 09:13:55 +0000      429 bytes  examples/quick-start/store.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 09:13:55 +0000     1929 bytes  examples/sandbox/app.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 09:13:55 +0000      327 bytes  examples/sandbox/index.html</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 09:13:55 +0000      857 bytes  examples/server.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 09:13:55 +0000     1531 bytes  examples/stress-test/app.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 09:13:55 +0000      335 bytes  examples/stress-test/index.html</tspan>
-<tspan x="10" y="474"> 28.  2017-04-18 09:13:55 +0000      421 bytes  examples/stress-test/store.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-18 09:13:55 +0000      390 bytes  examples/validation/app.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-18 09:13:55 +0000      485 bytes  examples/validation/components/submit-button.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-18 09:13:55 +0000     2452 bytes  examples/validation/components/user-form.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-18 09:13:55 +0000      332 bytes  examples/validation/index.html</tspan>
-<tspan x="10" y="554"> 33.  2017-04-18 09:13:55 +0000      390 bytes  examples/validation/store.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-18 09:13:55 +0000      974 bytes  examples/webpack.config.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-18 09:13:55 +0000     1947 bytes  home/assets/prism.css</tspan>
-<tspan x="10" y="602"> 36.  2017-04-18 09:13:55 +0000    11617 bytes  home/assets/prism.min.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-18 09:13:55 +0000     7798 bytes  home/assets/styles.css</tspan>
-<tspan x="10" y="634"> 38.  2017-04-18 09:13:55 +0000     7311 bytes  home/assets/styles.scss</tspan>
-<tspan x="10" y="650"> 39.  2017-04-18 09:13:55 +0000     5365 bytes  home/index.html</tspan>
-<tspan x="10" y="666"> 40.  2017-04-18 09:13:55 +0000      504 bytes  immutable.d.ts</tspan>
-<tspan x="10" y="682"> 41.  2017-04-18 09:13:55 +0000      112 bytes  immutable.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-18 09:13:55 +0000      864 bytes  lib/action-types.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-18 09:13:55 +0000     3113 bytes  lib/actions/batch-actions.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-18 09:13:55 +0000    12458 bytes  lib/actions/field-actions.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-18 09:13:55 +0000      907 bytes  lib/actions/index.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-18 09:13:55 +0000     7091 bytes  lib/actions/model-actions.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-18 09:13:55 +0000     2187 bytes  lib/combineForms.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-18 09:13:55 +0000    28841 bytes  lib/components/control-component.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-18 09:13:55 +0000     9352 bytes  lib/components/errors-component.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-18 09:13:55 +0000    11103 bytes  lib/components/field-component.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-18 09:13:55 +0000     3689 bytes  lib/components/fieldset-component.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-18 09:13:55 +0000    17788 bytes  lib/components/form-component.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-18 09:13:55 +0000     4338 bytes  lib/components/local-form-component.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-18 09:13:55 +0000     3343 bytes  lib/constants/control-props-map.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-18 09:13:55 +0000      379 bytes  lib/constants/initial-field-state.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-18 09:13:55 +0000      145 bytes  lib/constants/null-action.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-18 09:13:55 +0000      285 bytes  lib/constants/validity-keys.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-18 09:13:55 +0000      938 bytes  lib/enhancers/batched-enhancer.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-18 09:13:55 +0000     1461 bytes  lib/enhancers/modeled-enhancer.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-18 09:13:55 +0000     1502 bytes  lib/form/index.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-18 09:13:55 +0000      390 bytes  lib/form/is-pending.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-18 09:13:55 +0000      437 bytes  lib/form/is-pristine.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-18 09:13:55 +0000      398 bytes  lib/form/is-retouched.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-18 09:13:55 +0000      390 bytes  lib/form/is-touched.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-18 09:13:55 +0000     1693 bytes  lib/form/is-valid.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-18 09:13:55 +0000      504 bytes  lib/immutable.d.ts</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-18 09:13:55 +0000     8061 bytes  lib/immutable.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-18 09:13:55 +0000     3820 bytes  lib/index.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-18 09:13:55 +0000     7982 bytes  lib/native.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-18 09:13:55 +0000    15203 bytes  lib/reducers/form-actions-reducer.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-18 09:13:55 +0000     3653 bytes  lib/reducers/form-reducer.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-18 09:13:55 +0000     6242 bytes  lib/reducers/form/change-action-reducer.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-18 09:13:55 +0000     4668 bytes  lib/reducers/forms-reducer.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-18 09:13:55 +0000     2902 bytes  lib/reducers/model-reducer.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-18 09:13:55 +0000      330 bytes  lib/utils/arrays-equal.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-18 09:13:55 +0000     1054 bytes  lib/utils/assoc-in.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-18 09:13:55 +0000      256 bytes  lib/utils/capitalize.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-18 09:13:55 +0000      426 bytes  lib/utils/compose-reducers.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-18 09:13:55 +0000      259 bytes  lib/utils/contains-event.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-18 09:13:55 +0000     2575 bytes  lib/utils/create-field.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-18 09:13:55 +0000      491 bytes  lib/utils/debounce.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-18 09:13:55 +0000     2041 bytes  lib/utils/deep-compare-children.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-18 09:13:55 +0000      324 bytes  lib/utils/ends-with.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-18 09:13:55 +0000      382 bytes  lib/utils/find-key.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-18 09:13:55 +0000      476 bytes  lib/utils/find.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-18 09:13:55 +0000      822 bytes  lib/utils/flatten.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-18 09:13:55 +0000      659 bytes  lib/utils/get-field-form.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-18 09:13:55 +0000     1449 bytes  lib/utils/get-field-from-state.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-18 09:13:55 +0000      925 bytes  lib/utils/get-field.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-18 09:13:55 +0000      658 bytes  lib/utils/get-form-value.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-18 09:13:55 +0000     3952 bytes  lib/utils/get-form.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-18 09:13:55 +0000     1086 bytes  lib/utils/get-from-immutable-state.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-18 09:13:55 +0000      213 bytes  lib/utils/get-model.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-18 09:13:55 +0000      700 bytes  lib/utils/get-validity.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-18 09:13:55 +0000     1450 bytes  lib/utils/get-value.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-18 09:13:55 +0000      887 bytes  lib/utils/get.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-18 09:13:55 +0000      144 bytes  lib/utils/identity.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-18 09:13:55 +0000      151 bytes  lib/utils/inverse.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-18 09:13:55 +0000      679 bytes  lib/utils/invert-validators.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-18 09:13:55 +0000      598 bytes  lib/utils/invert-validity.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-18 09:13:55 +0000      373 bytes  lib/utils/is-multi.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-18 09:13:55 +0000      258 bytes  lib/utils/is-native.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-18 09:13:55 +0000     1216 bytes  lib/utils/is-plain-object.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-18 09:13:55 +0000      623 bytes  lib/utils/is-validity-invalid.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-18 09:13:55 +0000      549 bytes  lib/utils/is-validity-valid.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-18 09:13:55 +0000     1538 bytes  lib/utils/iteratee.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-18 09:13:55 +0000      301 bytes  lib/utils/map-values.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-18 09:13:55 +0000      333 bytes  lib/utils/map.js</tspan>
-<tspan x="10" y="1770">109.  2017-04-18 09:13:55 +0000      998 bytes  lib/utils/merge-validity.js</tspan>
-<tspan x="10" y="1786">110.  2017-04-18 09:13:55 +0000      382 bytes  lib/utils/merge.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-18 09:13:55 +0000      654 bytes  lib/utils/omit.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-18 09:13:55 +0000      371 bytes  lib/utils/partition.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-18 09:13:55 +0000     1081 bytes  lib/utils/path-starts-with.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-18 09:13:55 +0000      496 bytes  lib/utils/persist-event-with-callback.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-18 09:13:55 +0000      279 bytes  lib/utils/pick.js</tspan>
-<tspan x="10" y="1882">116.  2017-04-18 09:13:55 +0000     4181 bytes  lib/utils/resolve-model.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-18 09:13:55 +0000      622 bytes  lib/utils/shallow-compare-without-children.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-18 09:13:55 +0000     2638 bytes  lib/utils/shallow-equal.js</tspan>
-<tspan x="10" y="1930">119.  2017-04-18 09:13:55 +0000      634 bytes  lib/utils/to-path.js</tspan>
-<tspan x="10" y="1946">120.  2017-04-18 09:13:55 +0000     2654 bytes  lib/utils/track.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-18 09:13:55 +0000     3976 bytes  lib/utils/update-field.js</tspan>
-<tspan x="10" y="1978">122.  2017-04-18 09:13:55 +0000     1381 bytes  lib/utils/update-parent-forms.js</tspan>
-<tspan x="10" y="1994">123.  2017-04-18 09:13:55 +0000     2035 bytes  lib/utils/update-sub-fields.js</tspan>
-<tspan x="10" y="2010">124.  2017-04-18 09:13:55 +0000       42 bytes  native.js</tspan>
-<tspan x="10" y="2026">125.  2017-04-18 09:13:55 +0000     5715 bytes  package.json</tspan>
-<tspan x="10" y="2042">126.  2017-04-18 09:13:55 +0000    45578 bytes  react-redux-form.d.ts</tspan>
-<tspan x="10" y="2058">127.  2017-04-18 09:13:55 +0000      785 bytes  src/action-types.js</tspan>
-<tspan x="10" y="2074">128.  2017-04-18 09:13:55 +0000     1683 bytes  src/actions/batch-actions.js</tspan>
-<tspan x="10" y="2090">129.  2017-04-18 09:13:55 +0000     7672 bytes  src/actions/field-actions.js</tspan>
-<tspan x="10" y="2106">130.  2017-04-18 09:13:55 +0000      219 bytes  src/actions/index.js</tspan>
-<tspan x="10" y="2122">131.  2017-04-18 09:13:55 +0000     4576 bytes  src/actions/model-actions.js</tspan>
-<tspan x="10" y="2138">132.  2017-04-18 09:13:55 +0000     1047 bytes  src/combineForms.js</tspan>
-<tspan x="10" y="2154">133.  2017-04-18 09:13:55 +0000    19889 bytes  src/components/control-component.js</tspan>
-<tspan x="10" y="2170">134.  2017-04-18 09:13:55 +0000     4981 bytes  src/components/errors-component.js</tspan>
-<tspan x="10" y="2186">135.  2017-04-18 09:13:55 +0000     6645 bytes  src/components/field-component.js</tspan>
-<tspan x="10" y="2202">136.  2017-04-18 09:13:55 +0000     1165 bytes  src/components/fieldset-component.js</tspan>
-<tspan x="10" y="2218">137.  2017-04-18 09:13:55 +0000    10711 bytes  src/components/form-component.js</tspan>
-<tspan x="10" y="2234">138.  2017-04-18 09:13:55 +0000     1307 bytes  src/components/local-form-component.js</tspan>
-<tspan x="10" y="2250">139.  2017-04-18 09:13:55 +0000     2130 bytes  src/constants/control-props-map.js</tspan>
-<tspan x="10" y="2266">140.  2017-04-18 09:13:55 +0000      300 bytes  src/constants/initial-field-state.js</tspan>
-<tspan x="10" y="2282">141.  2017-04-18 09:13:55 +0000       65 bytes  src/constants/null-action.js</tspan>
-<tspan x="10" y="2298">142.  2017-04-18 09:13:55 +0000      228 bytes  src/constants/validity-keys.js</tspan>
-<tspan x="10" y="2314">143.  2017-04-18 09:13:55 +0000      506 bytes  src/enhancers/batched-enhancer.js</tspan>
-<tspan x="10" y="2330">144.  2017-04-18 09:13:55 +0000      784 bytes  src/enhancers/modeled-enhancer.js</tspan>
-<tspan x="10" y="2346">145.  2017-04-18 09:13:55 +0000      552 bytes  src/form/index.js</tspan>
-<tspan x="10" y="2362">146.  2017-04-18 09:13:55 +0000      273 bytes  src/form/is-pending.js</tspan>
-<tspan x="10" y="2378">147.  2017-04-18 09:13:55 +0000      337 bytes  src/form/is-pristine.js</tspan>
-<tspan x="10" y="2394">148.  2017-04-18 09:13:55 +0000      279 bytes  src/form/is-retouched.js</tspan>
-<tspan x="10" y="2410">149.  2017-04-18 09:13:55 +0000      273 bytes  src/form/is-touched.js</tspan>
-<tspan x="10" y="2426">150.  2017-04-18 09:13:55 +0000     1220 bytes  src/form/is-valid.js</tspan>
-<tspan x="10" y="2442">151.  2017-04-18 09:13:55 +0000     5211 bytes  src/immutable.js</tspan>
-<tspan x="10" y="2458">152.  2017-04-18 09:13:55 +0000     1420 bytes  src/index.js</tspan>
-<tspan x="10" y="2474">153.  2017-04-18 09:13:55 +0000     4046 bytes  src/native.js</tspan>
-<tspan x="10" y="2490">154.  2017-04-18 09:13:55 +0000    11083 bytes  src/reducers/form-actions-reducer.js</tspan>
-<tspan x="10" y="2506">155.  2017-04-18 09:13:55 +0000     1950 bytes  src/reducers/form-reducer.js</tspan>
-<tspan x="10" y="2522">156.  2017-04-18 09:13:55 +0000     4213 bytes  src/reducers/form/change-action-reducer.js</tspan>
-<tspan x="10" y="2538">157.  2017-04-18 09:13:55 +0000     2722 bytes  src/reducers/forms-reducer.js</tspan>
-<tspan x="10" y="2554">158.  2017-04-18 09:13:55 +0000     1894 bytes  src/reducers/model-reducer.js</tspan>
-<tspan x="10" y="2570">159.  2017-04-18 09:13:55 +0000      219 bytes  src/utils/arrays-equal.js</tspan>
-<tspan x="10" y="2586">160.  2017-04-18 09:13:55 +0000      708 bytes  src/utils/assoc-in.js</tspan>
-<tspan x="10" y="2602">161.  2017-04-18 09:13:55 +0000      162 bytes  src/utils/capitalize.js</tspan>
-<tspan x="10" y="2618">162.  2017-04-18 09:13:55 +0000      162 bytes  src/utils/compose-reducers.js</tspan>
-<tspan x="10" y="2634">163.  2017-04-18 09:13:55 +0000      162 bytes  src/utils/contains-event.js</tspan>
-<tspan x="10" y="2650">164.  2017-04-18 09:13:55 +0000     1682 bytes  src/utils/create-field.js</tspan>
-<tspan x="10" y="2666">165.  2017-04-18 09:13:55 +0000      248 bytes  src/utils/debounce.js</tspan>
-<tspan x="10" y="2682">166.  2017-04-18 09:13:55 +0000     1548 bytes  src/utils/deep-compare-children.js</tspan>
-<tspan x="10" y="2698">167.  2017-04-18 09:13:55 +0000      234 bytes  src/utils/ends-with.js</tspan>
-<tspan x="10" y="2714">168.  2017-04-18 09:13:55 +0000      279 bytes  src/utils/find-key.js</tspan>
-<tspan x="10" y="2730">169.  2017-04-18 09:13:55 +0000      295 bytes  src/utils/find.js</tspan>
-<tspan x="10" y="2746">170.  2017-04-18 09:13:55 +0000      695 bytes  src/utils/flatten.js</tspan>
-<tspan x="10" y="2762">171.  2017-04-18 09:13:55 +0000      340 bytes  src/utils/get-field-form.js</tspan>
-<tspan x="10" y="2778">172.  2017-04-18 09:13:55 +0000      825 bytes  src/utils/get-field-from-state.js</tspan>
-<tspan x="10" y="2794">173.  2017-04-18 09:13:55 +0000      507 bytes  src/utils/get-field.js</tspan>
-<tspan x="10" y="2810">174.  2017-04-18 09:13:55 +0000      398 bytes  src/utils/get-form-value.js</tspan>
-<tspan x="10" y="2826">175.  2017-04-18 09:13:55 +0000     2383 bytes  src/utils/get-form.js</tspan>
-<tspan x="10" y="2842">176.  2017-04-18 09:13:55 +0000      487 bytes  src/utils/get-from-immutable-state.js</tspan>
-<tspan x="10" y="2858">177.  2017-04-18 09:13:55 +0000      131 bytes  src/utils/get-model.js</tspan>
-<tspan x="10" y="2874">178.  2017-04-18 09:13:55 +0000      338 bytes  src/utils/get-validity.js</tspan>
-<tspan x="10" y="2890">179.  2017-04-18 09:13:55 +0000      847 bytes  src/utils/get-value.js</tspan>
-<tspan x="10" y="2906">180.  2017-04-18 09:13:55 +0000      544 bytes  src/utils/get.js</tspan>
-<tspan x="10" y="2922">181.  2017-04-18 09:13:55 +0000       50 bytes  src/utils/identity.js</tspan>
-<tspan x="10" y="2938">182.  2017-04-18 09:13:55 +0000       60 bytes  src/utils/inverse.js</tspan>
-<tspan x="10" y="2954">183.  2017-04-18 09:13:55 +0000      294 bytes  src/utils/invert-validators.js</tspan>
-<tspan x="10" y="2970">184.  2017-04-18 09:13:55 +0000      245 bytes  src/utils/invert-validity.js</tspan>
-<tspan x="10" y="2986">185.  2017-04-18 09:13:55 +0000      112 bytes  src/utils/is-multi.js</tspan>
-<tspan x="10" y="3002">186.  2017-04-18 09:13:55 +0000      186 bytes  src/utils/is-native.js</tspan>
-<tspan x="10" y="3018">187.  2017-04-18 09:13:55 +0000      808 bytes  src/utils/is-plain-object.js</tspan>
-<tspan x="10" y="3034">188.  2017-04-18 09:13:55 +0000      320 bytes  src/utils/is-validity-invalid.js</tspan>
-<tspan x="10" y="3050">189.  2017-04-18 09:13:55 +0000      248 bytes  src/utils/is-validity-valid.js</tspan>
-<tspan x="10" y="3066">190.  2017-04-18 09:13:55 +0000      836 bytes  src/utils/iteratee.js</tspan>
-<tspan x="10" y="3082">191.  2017-04-18 09:13:55 +0000      215 bytes  src/utils/map-values.js</tspan>
-<tspan x="10" y="3098">192.  2017-04-18 09:13:55 +0000      229 bytes  src/utils/map.js</tspan>
-<tspan x="10" y="3114">193.  2017-04-18 09:13:55 +0000      372 bytes  src/utils/merge-validity.js</tspan>
-<tspan x="10" y="3130">194.  2017-04-18 09:13:55 +0000      114 bytes  src/utils/merge.js</tspan>
-<tspan x="10" y="3146">195.  2017-04-18 09:13:55 +0000      295 bytes  src/utils/omit.js</tspan>
-<tspan x="10" y="3162">196.  2017-04-18 09:13:55 +0000      274 bytes  src/utils/partition.js</tspan>
-<tspan x="10" y="3178">197.  2017-04-18 09:13:55 +0000      724 bytes  src/utils/path-starts-with.js</tspan>
-<tspan x="10" y="3194">198.  2017-04-18 09:13:55 +0000      211 bytes  src/utils/persist-event-with-callback.js</tspan>
-<tspan x="10" y="3210">199.  2017-04-18 09:13:55 +0000      195 bytes  src/utils/pick.js</tspan>
-<tspan x="10" y="3226">200.  2017-04-18 09:13:55 +0000     1476 bytes  src/utils/resolve-model.js</tspan>
-<tspan x="10" y="3242">201.  2017-04-18 09:13:55 +0000      323 bytes  src/utils/shallow-compare-without-children.js</tspan>
-<tspan x="10" y="3258">202.  2017-04-18 09:13:55 +0000     2077 bytes  src/utils/shallow-equal.js</tspan>
-<tspan x="10" y="3274">203.  2017-04-18 09:13:55 +0000      292 bytes  src/utils/to-path.js</tspan>
-<tspan x="10" y="3290">204.  2017-04-18 09:13:55 +0000     1607 bytes  src/utils/track.js</tspan>
-<tspan x="10" y="3306">205.  2017-04-18 09:13:55 +0000     2021 bytes  src/utils/update-field.js</tspan>
-<tspan x="10" y="3322">206.  2017-04-18 09:13:55 +0000      771 bytes  src/utils/update-parent-forms.js</tspan>
-<tspan x="10" y="3338">207.  2017-04-18 09:13:55 +0000     1218 bytes  src/utils/update-sub-fields.js</tspan>
-<tspan x="10" y="3354">208.  2017-04-18 09:13:55 +0000      366 bytes  test/action-types-spec.js</tspan>
-<tspan x="10" y="3370">209.  2017-04-18 09:13:55 +0000    10054 bytes  test/actions-spec.js</tspan>
-<tspan x="10" y="3386">210.  2017-04-18 09:13:55 +0000     3137 bytes  test/batched-actions-spec.js</tspan>
-<tspan x="10" y="3402">211.  2017-04-18 09:13:55 +0000     5290 bytes  test/combine-forms-spec.js</tspan>
-<tspan x="10" y="3418">212.  2017-04-18 09:13:55 +0000    60310 bytes  test/control-component-spec.js</tspan>
-<tspan x="10" y="3434">213.  2017-04-18 09:13:55 +0000     8989 bytes  test/custom-control-component-spec.js</tspan>
-<tspan x="10" y="3450">214.  2017-04-18 09:13:55 +0000    24124 bytes  test/errors-component-spec.js</tspan>
-<tspan x="10" y="3466">215.  2017-04-18 09:13:55 +0000    49215 bytes  test/field-actions-spec.js</tspan>
-<tspan x="10" y="3482">216.  2017-04-18 09:13:55 +0000    62584 bytes  test/field-component-spec.js</tspan>
-<tspan x="10" y="3498">217.  2017-04-18 09:13:55 +0000     3189 bytes  test/field-parser-spec.js</tspan>
-<tspan x="10" y="3514">218.  2017-04-18 09:13:55 +0000    62885 bytes  test/form-component-spec.js</tspan>
-<tspan x="10" y="3530">219.  2017-04-18 09:13:55 +0000    20093 bytes  test/form-reducer-actions-spec.js</tspan>
-<tspan x="10" y="3546">220.  2017-04-18 09:13:55 +0000     3800 bytes  test/form-reducer-plugins-spec.js</tspan>
-<tspan x="10" y="3562">221.  2017-04-18 09:13:55 +0000     8353 bytes  test/form-reducer-spec.js</tspan>
-<tspan x="10" y="3578">222.  2017-04-18 09:13:55 +0000     1465 bytes  test/immutable-field-component-spec.js</tspan>
-<tspan x="10" y="3594">223.  2017-04-18 09:13:55 +0000     3164 bytes  test/immutable-model-reducer-spec.js</tspan>
-<tspan x="10" y="3610">224.  2017-04-18 09:13:55 +0000     2137 bytes  test/immutable-modeled-enhancer-spec.js</tspan>
-<tspan x="10" y="3626">225.  2017-04-18 09:13:55 +0000     3629 bytes  test/local-forms-spec.js</tspan>
-<tspan x="10" y="3642">226.  2017-04-18 09:13:55 +0000    14916 bytes  test/model-actions-spec.js</tspan>
-<tspan x="10" y="3658">227.  2017-04-18 09:13:55 +0000     3177 bytes  test/model-reducer-spec.js</tspan>
-<tspan x="10" y="3674">228.  2017-04-18 09:13:55 +0000     4999 bytes  test/model-resolving-spec.js</tspan>
-<tspan x="10" y="3690">229.  2017-04-18 09:13:55 +0000     1953 bytes  test/modeled-enhancer-spec.js</tspan>
-<tspan x="10" y="3706">230.  2017-04-18 09:13:55 +0000     1153 bytes  test/ref-spec.js</tspan>
-<tspan x="10" y="3722">231.  2017-04-18 09:13:55 +0000     2180 bytes  test/selectors-spec.js</tspan>
-<tspan x="10" y="3738">232.  2017-04-18 09:13:55 +0000      273 bytes  test/spec-setup.js</tspan>
-<tspan x="10" y="3754">233.  2017-04-18 09:13:55 +0000     3912 bytes  test/tracking-spec.js</tspan>
-<tspan x="10" y="3770">234.  2017-04-18 09:13:55 +0000    11762 bytes  test/utils-spec.js</tspan>
-<tspan x="10" y="3786">235.  2017-04-18 09:13:55 +0000     1602 bytes  test/utils.js</tspan>
-<tspan x="10" y="3802">236.  2017-04-18 09:13:55 +0000    97843 bytes  umd/ReactReduxForm.min.js</tspan>
-<tspan x="10" y="3818">237.  2017-04-18 09:13:55 +0000      864 bytes  webpack.config.base.js</tspan>
-<tspan x="10" y="3834">238.  2017-04-18 09:13:55 +0000      642 bytes  webpack.config.prod.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 09:15:00 +0000   942336 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 09:15:00 +0000     1083 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 09:15:00 +0000     3725 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 09:15:00 +0000     1302 bytes  SUMMARY.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 09:15:00 +0000     2895 bytes  UPGRADE_GUIDE.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 09:15:00 +0000      272 bytes  book.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 09:15:00 +0000     1110 bytes  contributing.json</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 09:15:00 +0000      192 bytes  esdoc.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 09:15:00 +0000     1709 bytes  examples/builder/FormBuilder.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 09:15:00 +0000      385 bytes  examples/builder/app.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 09:15:00 +0000      334 bytes  examples/builder/index.html</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 09:15:00 +0000      430 bytes  examples/builder/store.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 09:15:00 +0000      257 bytes  examples/global.css</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 09:15:00 +0000      390 bytes  examples/immutable/app.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 09:15:00 +0000      633 bytes  examples/immutable/components/submit-button.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 09:15:00 +0000     2535 bytes  examples/immutable/components/user-form.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 09:15:00 +0000      321 bytes  examples/immutable/index.html</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 09:15:00 +0000      593 bytes  examples/immutable/store.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 09:15:00 +0000      419 bytes  examples/index.html</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 09:15:00 +0000      455 bytes  examples/quick-start/app.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 09:15:00 +0000     2440 bytes  examples/quick-start/components/user-form.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 09:15:00 +0000      335 bytes  examples/quick-start/index.html</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 09:15:00 +0000      429 bytes  examples/quick-start/store.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 09:15:00 +0000     1929 bytes  examples/sandbox/app.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 09:15:00 +0000      327 bytes  examples/sandbox/index.html</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 09:15:00 +0000      857 bytes  examples/server.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 09:15:00 +0000     1531 bytes  examples/stress-test/app.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 09:15:00 +0000      335 bytes  examples/stress-test/index.html</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 09:15:00 +0000      421 bytes  examples/stress-test/store.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 09:15:00 +0000      390 bytes  examples/validation/app.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 09:15:00 +0000      485 bytes  examples/validation/components/submit-button.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 09:15:00 +0000     2452 bytes  examples/validation/components/user-form.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 09:15:00 +0000      332 bytes  examples/validation/index.html</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 09:15:00 +0000      390 bytes  examples/validation/store.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 09:15:00 +0000      974 bytes  examples/webpack.config.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 09:15:00 +0000     1947 bytes  home/assets/prism.css</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 09:15:00 +0000    11617 bytes  home/assets/prism.min.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 09:15:00 +0000     7798 bytes  home/assets/styles.css</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 09:15:00 +0000     7311 bytes  home/assets/styles.scss</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 09:15:00 +0000     5365 bytes  home/index.html</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 09:15:00 +0000      504 bytes  immutable.d.ts</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 09:15:00 +0000      112 bytes  immutable.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 09:15:00 +0000      864 bytes  lib/action-types.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 09:15:00 +0000     3113 bytes  lib/actions/batch-actions.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 09:15:00 +0000    12458 bytes  lib/actions/field-actions.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-18 09:15:00 +0000      907 bytes  lib/actions/index.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-18 09:15:00 +0000     7091 bytes  lib/actions/model-actions.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-18 09:15:00 +0000     2187 bytes  lib/combineForms.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-18 09:15:00 +0000    28841 bytes  lib/components/control-component.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-18 09:15:00 +0000     9352 bytes  lib/components/errors-component.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-18 09:15:00 +0000    11103 bytes  lib/components/field-component.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-18 09:15:00 +0000     3689 bytes  lib/components/fieldset-component.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-18 09:15:00 +0000    17788 bytes  lib/components/form-component.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-18 09:15:00 +0000     4338 bytes  lib/components/local-form-component.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-18 09:15:00 +0000     3343 bytes  lib/constants/control-props-map.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-18 09:15:00 +0000      379 bytes  lib/constants/initial-field-state.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-18 09:15:00 +0000      145 bytes  lib/constants/null-action.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-18 09:15:00 +0000      285 bytes  lib/constants/validity-keys.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-18 09:15:00 +0000      938 bytes  lib/enhancers/batched-enhancer.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-18 09:15:00 +0000     1461 bytes  lib/enhancers/modeled-enhancer.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-18 09:15:00 +0000     1502 bytes  lib/form/index.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-18 09:15:00 +0000      390 bytes  lib/form/is-pending.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-18 09:15:00 +0000      437 bytes  lib/form/is-pristine.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-18 09:15:00 +0000      398 bytes  lib/form/is-retouched.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-18 09:15:00 +0000      390 bytes  lib/form/is-touched.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-18 09:15:00 +0000     1693 bytes  lib/form/is-valid.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-18 09:15:00 +0000      504 bytes  lib/immutable.d.ts</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-18 09:15:00 +0000     8061 bytes  lib/immutable.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-18 09:15:00 +0000     3820 bytes  lib/index.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-18 09:15:00 +0000     7982 bytes  lib/native.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-18 09:15:00 +0000    15203 bytes  lib/reducers/form-actions-reducer.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-18 09:15:00 +0000     3653 bytes  lib/reducers/form-reducer.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-18 09:15:00 +0000     6242 bytes  lib/reducers/form/change-action-reducer.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-18 09:15:00 +0000     4668 bytes  lib/reducers/forms-reducer.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-18 09:15:00 +0000     2902 bytes  lib/reducers/model-reducer.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-18 09:15:00 +0000      330 bytes  lib/utils/arrays-equal.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-18 09:15:00 +0000     1054 bytes  lib/utils/assoc-in.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-18 09:15:00 +0000      256 bytes  lib/utils/capitalize.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-18 09:15:00 +0000      426 bytes  lib/utils/compose-reducers.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-18 09:15:00 +0000      259 bytes  lib/utils/contains-event.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-18 09:15:00 +0000     2575 bytes  lib/utils/create-field.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-18 09:15:00 +0000      491 bytes  lib/utils/debounce.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-18 09:15:00 +0000     2041 bytes  lib/utils/deep-compare-children.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-18 09:15:00 +0000      324 bytes  lib/utils/ends-with.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-18 09:15:00 +0000      382 bytes  lib/utils/find-key.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-18 09:15:00 +0000      476 bytes  lib/utils/find.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-18 09:15:00 +0000      822 bytes  lib/utils/flatten.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-18 09:15:00 +0000      659 bytes  lib/utils/get-field-form.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-18 09:15:00 +0000     1449 bytes  lib/utils/get-field-from-state.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-18 09:15:00 +0000      925 bytes  lib/utils/get-field.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-18 09:15:00 +0000      658 bytes  lib/utils/get-form-value.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-18 09:15:00 +0000     3952 bytes  lib/utils/get-form.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-18 09:15:00 +0000     1086 bytes  lib/utils/get-from-immutable-state.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-18 09:15:00 +0000      213 bytes  lib/utils/get-model.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-18 09:15:00 +0000      700 bytes  lib/utils/get-validity.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-18 09:15:00 +0000     1450 bytes  lib/utils/get-value.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-18 09:15:00 +0000      887 bytes  lib/utils/get.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-18 09:15:00 +0000      144 bytes  lib/utils/identity.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-18 09:15:00 +0000      151 bytes  lib/utils/inverse.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-18 09:15:00 +0000      679 bytes  lib/utils/invert-validators.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-18 09:15:00 +0000      598 bytes  lib/utils/invert-validity.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-18 09:15:00 +0000      373 bytes  lib/utils/is-multi.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-18 09:15:00 +0000      258 bytes  lib/utils/is-native.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-18 09:15:00 +0000     1216 bytes  lib/utils/is-plain-object.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-18 09:15:00 +0000      623 bytes  lib/utils/is-validity-invalid.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-18 09:15:00 +0000      549 bytes  lib/utils/is-validity-valid.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-18 09:15:00 +0000     1538 bytes  lib/utils/iteratee.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-18 09:15:00 +0000      301 bytes  lib/utils/map-values.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-18 09:15:00 +0000      333 bytes  lib/utils/map.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-18 09:15:00 +0000      998 bytes  lib/utils/merge-validity.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-18 09:15:00 +0000      382 bytes  lib/utils/merge.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-18 09:15:00 +0000      654 bytes  lib/utils/omit.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-18 09:15:00 +0000      371 bytes  lib/utils/partition.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-18 09:15:00 +0000     1081 bytes  lib/utils/path-starts-with.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-18 09:15:00 +0000      496 bytes  lib/utils/persist-event-with-callback.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-18 09:15:00 +0000      279 bytes  lib/utils/pick.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-18 09:15:00 +0000     4181 bytes  lib/utils/resolve-model.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-18 09:15:00 +0000      622 bytes  lib/utils/shallow-compare-without-children.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-18 09:15:00 +0000     2638 bytes  lib/utils/shallow-equal.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-18 09:15:00 +0000      634 bytes  lib/utils/to-path.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-18 09:15:00 +0000     2654 bytes  lib/utils/track.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-18 09:15:00 +0000     3976 bytes  lib/utils/update-field.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-18 09:15:00 +0000     1381 bytes  lib/utils/update-parent-forms.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-18 09:15:00 +0000     2035 bytes  lib/utils/update-sub-fields.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-18 09:15:00 +0000       42 bytes  native.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-18 09:15:00 +0000     5715 bytes  package.json</tspan>
+<tspan x="10" y="2042">126.  2017-04-18 09:15:00 +0000    45578 bytes  react-redux-form.d.ts</tspan>
+<tspan x="10" y="2058">127.  2017-04-18 09:15:00 +0000      785 bytes  src/action-types.js</tspan>
+<tspan x="10" y="2074">128.  2017-04-18 09:15:00 +0000     1683 bytes  src/actions/batch-actions.js</tspan>
+<tspan x="10" y="2090">129.  2017-04-18 09:15:00 +0000     7672 bytes  src/actions/field-actions.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-18 09:15:00 +0000      219 bytes  src/actions/index.js</tspan>
+<tspan x="10" y="2122">131.  2017-04-18 09:15:00 +0000     4576 bytes  src/actions/model-actions.js</tspan>
+<tspan x="10" y="2138">132.  2017-04-18 09:15:00 +0000     1047 bytes  src/combineForms.js</tspan>
+<tspan x="10" y="2154">133.  2017-04-18 09:15:00 +0000    19889 bytes  src/components/control-component.js</tspan>
+<tspan x="10" y="2170">134.  2017-04-18 09:15:00 +0000     4981 bytes  src/components/errors-component.js</tspan>
+<tspan x="10" y="2186">135.  2017-04-18 09:15:00 +0000     6645 bytes  src/components/field-component.js</tspan>
+<tspan x="10" y="2202">136.  2017-04-18 09:15:00 +0000     1165 bytes  src/components/fieldset-component.js</tspan>
+<tspan x="10" y="2218">137.  2017-04-18 09:15:00 +0000    10711 bytes  src/components/form-component.js</tspan>
+<tspan x="10" y="2234">138.  2017-04-18 09:15:00 +0000     1307 bytes  src/components/local-form-component.js</tspan>
+<tspan x="10" y="2250">139.  2017-04-18 09:15:00 +0000     2130 bytes  src/constants/control-props-map.js</tspan>
+<tspan x="10" y="2266">140.  2017-04-18 09:15:00 +0000      300 bytes  src/constants/initial-field-state.js</tspan>
+<tspan x="10" y="2282">141.  2017-04-18 09:15:00 +0000       65 bytes  src/constants/null-action.js</tspan>
+<tspan x="10" y="2298">142.  2017-04-18 09:15:00 +0000      228 bytes  src/constants/validity-keys.js</tspan>
+<tspan x="10" y="2314">143.  2017-04-18 09:15:00 +0000      506 bytes  src/enhancers/batched-enhancer.js</tspan>
+<tspan x="10" y="2330">144.  2017-04-18 09:15:00 +0000      784 bytes  src/enhancers/modeled-enhancer.js</tspan>
+<tspan x="10" y="2346">145.  2017-04-18 09:15:00 +0000      552 bytes  src/form/index.js</tspan>
+<tspan x="10" y="2362">146.  2017-04-18 09:15:00 +0000      273 bytes  src/form/is-pending.js</tspan>
+<tspan x="10" y="2378">147.  2017-04-18 09:15:00 +0000      337 bytes  src/form/is-pristine.js</tspan>
+<tspan x="10" y="2394">148.  2017-04-18 09:15:00 +0000      279 bytes  src/form/is-retouched.js</tspan>
+<tspan x="10" y="2410">149.  2017-04-18 09:15:00 +0000      273 bytes  src/form/is-touched.js</tspan>
+<tspan x="10" y="2426">150.  2017-04-18 09:15:00 +0000     1220 bytes  src/form/is-valid.js</tspan>
+<tspan x="10" y="2442">151.  2017-04-18 09:15:00 +0000     5211 bytes  src/immutable.js</tspan>
+<tspan x="10" y="2458">152.  2017-04-18 09:15:00 +0000     1420 bytes  src/index.js</tspan>
+<tspan x="10" y="2474">153.  2017-04-18 09:15:00 +0000     4046 bytes  src/native.js</tspan>
+<tspan x="10" y="2490">154.  2017-04-18 09:15:00 +0000    11083 bytes  src/reducers/form-actions-reducer.js</tspan>
+<tspan x="10" y="2506">155.  2017-04-18 09:15:00 +0000     1950 bytes  src/reducers/form-reducer.js</tspan>
+<tspan x="10" y="2522">156.  2017-04-18 09:15:00 +0000     4213 bytes  src/reducers/form/change-action-reducer.js</tspan>
+<tspan x="10" y="2538">157.  2017-04-18 09:15:00 +0000     2722 bytes  src/reducers/forms-reducer.js</tspan>
+<tspan x="10" y="2554">158.  2017-04-18 09:15:00 +0000     1894 bytes  src/reducers/model-reducer.js</tspan>
+<tspan x="10" y="2570">159.  2017-04-18 09:15:00 +0000      219 bytes  src/utils/arrays-equal.js</tspan>
+<tspan x="10" y="2586">160.  2017-04-18 09:15:00 +0000      708 bytes  src/utils/assoc-in.js</tspan>
+<tspan x="10" y="2602">161.  2017-04-18 09:15:00 +0000      162 bytes  src/utils/capitalize.js</tspan>
+<tspan x="10" y="2618">162.  2017-04-18 09:15:00 +0000      162 bytes  src/utils/compose-reducers.js</tspan>
+<tspan x="10" y="2634">163.  2017-04-18 09:15:00 +0000      162 bytes  src/utils/contains-event.js</tspan>
+<tspan x="10" y="2650">164.  2017-04-18 09:15:00 +0000     1682 bytes  src/utils/create-field.js</tspan>
+<tspan x="10" y="2666">165.  2017-04-18 09:15:00 +0000      248 bytes  src/utils/debounce.js</tspan>
+<tspan x="10" y="2682">166.  2017-04-18 09:15:00 +0000     1548 bytes  src/utils/deep-compare-children.js</tspan>
+<tspan x="10" y="2698">167.  2017-04-18 09:15:00 +0000      234 bytes  src/utils/ends-with.js</tspan>
+<tspan x="10" y="2714">168.  2017-04-18 09:15:00 +0000      279 bytes  src/utils/find-key.js</tspan>
+<tspan x="10" y="2730">169.  2017-04-18 09:15:00 +0000      295 bytes  src/utils/find.js</tspan>
+<tspan x="10" y="2746">170.  2017-04-18 09:15:00 +0000      695 bytes  src/utils/flatten.js</tspan>
+<tspan x="10" y="2762">171.  2017-04-18 09:15:00 +0000      340 bytes  src/utils/get-field-form.js</tspan>
+<tspan x="10" y="2778">172.  2017-04-18 09:15:00 +0000      825 bytes  src/utils/get-field-from-state.js</tspan>
+<tspan x="10" y="2794">173.  2017-04-18 09:15:00 +0000      507 bytes  src/utils/get-field.js</tspan>
+<tspan x="10" y="2810">174.  2017-04-18 09:15:00 +0000      398 bytes  src/utils/get-form-value.js</tspan>
+<tspan x="10" y="2826">175.  2017-04-18 09:15:00 +0000     2383 bytes  src/utils/get-form.js</tspan>
+<tspan x="10" y="2842">176.  2017-04-18 09:15:00 +0000      487 bytes  src/utils/get-from-immutable-state.js</tspan>
+<tspan x="10" y="2858">177.  2017-04-18 09:15:00 +0000      131 bytes  src/utils/get-model.js</tspan>
+<tspan x="10" y="2874">178.  2017-04-18 09:15:00 +0000      338 bytes  src/utils/get-validity.js</tspan>
+<tspan x="10" y="2890">179.  2017-04-18 09:15:00 +0000      847 bytes  src/utils/get-value.js</tspan>
+<tspan x="10" y="2906">180.  2017-04-18 09:15:00 +0000      544 bytes  src/utils/get.js</tspan>
+<tspan x="10" y="2922">181.  2017-04-18 09:15:00 +0000       50 bytes  src/utils/identity.js</tspan>
+<tspan x="10" y="2938">182.  2017-04-18 09:15:00 +0000       60 bytes  src/utils/inverse.js</tspan>
+<tspan x="10" y="2954">183.  2017-04-18 09:15:00 +0000      294 bytes  src/utils/invert-validators.js</tspan>
+<tspan x="10" y="2970">184.  2017-04-18 09:15:00 +0000      245 bytes  src/utils/invert-validity.js</tspan>
+<tspan x="10" y="2986">185.  2017-04-18 09:15:00 +0000      112 bytes  src/utils/is-multi.js</tspan>
+<tspan x="10" y="3002">186.  2017-04-18 09:15:00 +0000      186 bytes  src/utils/is-native.js</tspan>
+<tspan x="10" y="3018">187.  2017-04-18 09:15:00 +0000      808 bytes  src/utils/is-plain-object.js</tspan>
+<tspan x="10" y="3034">188.  2017-04-18 09:15:00 +0000      320 bytes  src/utils/is-validity-invalid.js</tspan>
+<tspan x="10" y="3050">189.  2017-04-18 09:15:00 +0000      248 bytes  src/utils/is-validity-valid.js</tspan>
+<tspan x="10" y="3066">190.  2017-04-18 09:15:00 +0000      836 bytes  src/utils/iteratee.js</tspan>
+<tspan x="10" y="3082">191.  2017-04-18 09:15:00 +0000      215 bytes  src/utils/map-values.js</tspan>
+<tspan x="10" y="3098">192.  2017-04-18 09:15:00 +0000      229 bytes  src/utils/map.js</tspan>
+<tspan x="10" y="3114">193.  2017-04-18 09:15:00 +0000      372 bytes  src/utils/merge-validity.js</tspan>
+<tspan x="10" y="3130">194.  2017-04-18 09:15:00 +0000      114 bytes  src/utils/merge.js</tspan>
+<tspan x="10" y="3146">195.  2017-04-18 09:15:00 +0000      295 bytes  src/utils/omit.js</tspan>
+<tspan x="10" y="3162">196.  2017-04-18 09:15:00 +0000      274 bytes  src/utils/partition.js</tspan>
+<tspan x="10" y="3178">197.  2017-04-18 09:15:00 +0000      724 bytes  src/utils/path-starts-with.js</tspan>
+<tspan x="10" y="3194">198.  2017-04-18 09:15:00 +0000      211 bytes  src/utils/persist-event-with-callback.js</tspan>
+<tspan x="10" y="3210">199.  2017-04-18 09:15:00 +0000      195 bytes  src/utils/pick.js</tspan>
+<tspan x="10" y="3226">200.  2017-04-18 09:15:00 +0000     1476 bytes  src/utils/resolve-model.js</tspan>
+<tspan x="10" y="3242">201.  2017-04-18 09:15:00 +0000      323 bytes  src/utils/shallow-compare-without-children.js</tspan>
+<tspan x="10" y="3258">202.  2017-04-18 09:15:00 +0000     2077 bytes  src/utils/shallow-equal.js</tspan>
+<tspan x="10" y="3274">203.  2017-04-18 09:15:00 +0000      292 bytes  src/utils/to-path.js</tspan>
+<tspan x="10" y="3290">204.  2017-04-18 09:15:00 +0000     1607 bytes  src/utils/track.js</tspan>
+<tspan x="10" y="3306">205.  2017-04-18 09:15:00 +0000     2021 bytes  src/utils/update-field.js</tspan>
+<tspan x="10" y="3322">206.  2017-04-18 09:15:00 +0000      771 bytes  src/utils/update-parent-forms.js</tspan>
+<tspan x="10" y="3338">207.  2017-04-18 09:15:00 +0000     1218 bytes  src/utils/update-sub-fields.js</tspan>
+<tspan x="10" y="3354">208.  2017-04-18 09:15:00 +0000      366 bytes  test/action-types-spec.js</tspan>
+<tspan x="10" y="3370">209.  2017-04-18 09:15:00 +0000    10054 bytes  test/actions-spec.js</tspan>
+<tspan x="10" y="3386">210.  2017-04-18 09:15:00 +0000     3137 bytes  test/batched-actions-spec.js</tspan>
+<tspan x="10" y="3402">211.  2017-04-18 09:15:00 +0000     5290 bytes  test/combine-forms-spec.js</tspan>
+<tspan x="10" y="3418">212.  2017-04-18 09:15:00 +0000    60310 bytes  test/control-component-spec.js</tspan>
+<tspan x="10" y="3434">213.  2017-04-18 09:15:00 +0000     8989 bytes  test/custom-control-component-spec.js</tspan>
+<tspan x="10" y="3450">214.  2017-04-18 09:15:00 +0000    24124 bytes  test/errors-component-spec.js</tspan>
+<tspan x="10" y="3466">215.  2017-04-18 09:15:00 +0000    49215 bytes  test/field-actions-spec.js</tspan>
+<tspan x="10" y="3482">216.  2017-04-18 09:15:00 +0000    62584 bytes  test/field-component-spec.js</tspan>
+<tspan x="10" y="3498">217.  2017-04-18 09:15:00 +0000     3189 bytes  test/field-parser-spec.js</tspan>
+<tspan x="10" y="3514">218.  2017-04-18 09:15:00 +0000    62885 bytes  test/form-component-spec.js</tspan>
+<tspan x="10" y="3530">219.  2017-04-18 09:15:00 +0000    20093 bytes  test/form-reducer-actions-spec.js</tspan>
+<tspan x="10" y="3546">220.  2017-04-18 09:15:00 +0000     3800 bytes  test/form-reducer-plugins-spec.js</tspan>
+<tspan x="10" y="3562">221.  2017-04-18 09:15:00 +0000     8353 bytes  test/form-reducer-spec.js</tspan>
+<tspan x="10" y="3578">222.  2017-04-18 09:15:00 +0000     1465 bytes  test/immutable-field-component-spec.js</tspan>
+<tspan x="10" y="3594">223.  2017-04-18 09:15:00 +0000     3164 bytes  test/immutable-model-reducer-spec.js</tspan>
+<tspan x="10" y="3610">224.  2017-04-18 09:15:00 +0000     2137 bytes  test/immutable-modeled-enhancer-spec.js</tspan>
+<tspan x="10" y="3626">225.  2017-04-18 09:15:00 +0000     3629 bytes  test/local-forms-spec.js</tspan>
+<tspan x="10" y="3642">226.  2017-04-18 09:15:00 +0000    14916 bytes  test/model-actions-spec.js</tspan>
+<tspan x="10" y="3658">227.  2017-04-18 09:15:00 +0000     3177 bytes  test/model-reducer-spec.js</tspan>
+<tspan x="10" y="3674">228.  2017-04-18 09:15:00 +0000     4999 bytes  test/model-resolving-spec.js</tspan>
+<tspan x="10" y="3690">229.  2017-04-18 09:15:00 +0000     1953 bytes  test/modeled-enhancer-spec.js</tspan>
+<tspan x="10" y="3706">230.  2017-04-18 09:15:00 +0000     1153 bytes  test/ref-spec.js</tspan>
+<tspan x="10" y="3722">231.  2017-04-18 09:15:00 +0000     2180 bytes  test/selectors-spec.js</tspan>
+<tspan x="10" y="3738">232.  2017-04-18 09:15:00 +0000      273 bytes  test/spec-setup.js</tspan>
+<tspan x="10" y="3754">233.  2017-04-18 09:15:00 +0000     3912 bytes  test/tracking-spec.js</tspan>
+<tspan x="10" y="3770">234.  2017-04-18 09:15:00 +0000    11762 bytes  test/utils-spec.js</tspan>
+<tspan x="10" y="3786">235.  2017-04-18 09:15:00 +0000     1602 bytes  test/utils.js</tspan>
+<tspan x="10" y="3802">236.  2017-04-18 09:15:00 +0000    97843 bytes  umd/ReactReduxForm.min.js</tspan>
+<tspan x="10" y="3818">237.  2017-04-18 09:15:00 +0000      864 bytes  webpack.config.base.js</tspan>
+<tspan x="10" y="3834">238.  2017-04-18 09:15:00 +0000      642 bytes  webpack.config.prod.js</tspan>
 </text>
 </svg>
