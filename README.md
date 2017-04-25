@@ -1,6 +1,6 @@
 # npmtest-react-redux-form
 
-#### test coverage for  [react-redux-form (v1.10.2)](https://github.com/davidkpiano/react-redux-form#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-redux-form.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-redux-form) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-redux-form.svg)](https://travis-ci.org/npmtest/node-npmtest-react-redux-form)
+#### basic test coverage for  [react-redux-form (v1.11.0)](https://github.com/davidkpiano/react-redux-form#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-redux-form.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-redux-form) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-redux-form.svg)](https://travis-ci.org/npmtest/node-npmtest-react-redux-form)
 
 #### Create Forms Easily with React and Redux
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-redux-form/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-redux-form/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-redux-form/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-redux-form/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-redux-form/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-redux-form/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-redux-form/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-redux-form/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-redux-form/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-redux-form/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-redux-form/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-redux-form/build/coverage.html/index.html)
 
@@ -96,10 +96,10 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "6852367d5b9b90327854d49abec178952a2a4fa0",
-        "tarball": "https://registry.npmjs.org/react-redux-form/-/react-redux-form-1.10.2.tgz"
+        "shasum": "81dd698a01687d81772381f792f7aa474de9ab80",
+        "tarball": "https://registry.npmjs.org/react-redux-form/-/react-redux-form-1.11.0.tgz"
     },
-    "gitHead": "7581ae636b5447988e269770d844a348544b3b90",
+    "gitHead": "a8ff29d3f4fa5eb18bc970783d725238d4a1f07e",
     "homepage": "https://github.com/davidkpiano/react-redux-form#readme",
     "keywords": [
         "redux",
@@ -152,7 +152,8 @@
         "tsdef": "cp -f immutable.d.ts lib/"
     },
     "typings": "react-redux-form.d.ts",
-    "version": "1.10.2"
+    "version": "1.11.0",
+    "bin": {}
 }
 ```
 
